@@ -1,4 +1,5 @@
 {
+  "outputDirectory": "build/web-mobile",
   "routes": [
     {
       "src": "/(.*)",
